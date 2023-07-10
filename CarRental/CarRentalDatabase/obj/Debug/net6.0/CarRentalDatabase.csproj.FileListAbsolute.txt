@@ -1,0 +1,136 @@
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\appsettings.Development.json
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\appsettings.json
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.exe
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.deps.json
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.runtimeconfig.json
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.pdb
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Humanizer.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalEntities.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalEntities.pdb
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.csproj.AssemblyReference.cache
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.AssemblyInfoInputs.cache
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.AssemblyInfo.cs
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.csproj.CoreCompileInputs.cache
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.MvcApplicationPartsAssemblyInfo.cs
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.MvcApplicationPartsAssemblyInfo.cache
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets\msbuild.CarRentalDatabase.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets\msbuild.build.CarRentalDatabase.props
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CarRentalDatabase.props
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CarRentalDatabase.props
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets.build.json
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets.development.json
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\scopedcss\bundle\CarRentalDatabase.styles.css
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.csproj.CopyComplete
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\refint\CarRentalDatabase.dll
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.pdb
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.genruntimeconfig.cache
+E:\Sreeni\CarRentalDotnet1\CarRental\CarRentalDatabase\obj\Debug\net6.0\ref\CarRentalDatabase.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.exe
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.deps.json
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.runtimeconfig.json
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalDatabase.pdb
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalEntities.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\bin\Debug\net6.0\CarRentalEntities.pdb
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets\msbuild.CarRentalDatabase.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets\msbuild.build.CarRentalDatabase.props
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CarRentalDatabase.props
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CarRentalDatabase.props
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\scopedcss\bundle\CarRentalDatabase.styles.css
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.csproj.CopyComplete
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\refint\CarRentalDatabase.dll
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.pdb
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\CarRentalDatabase.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Git_NewRepository(Car Rental)\Git_EntitiesAndDatabase\CarRental\CarRentalDatabase\obj\Debug\net6.0\ref\CarRentalDatabase.dll
