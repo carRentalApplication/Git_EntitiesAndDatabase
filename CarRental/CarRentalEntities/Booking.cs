@@ -18,7 +18,6 @@ namespace CarRentalEntities
         public double AdvanceAmount { get; set; }
         public double TotalAmount { get; set; }
         public Status Status { get; set; }
-
         public Vehicle Vehicle { get; set; }
         public AuthUser AuthUser { get; set; }
         public PaymentType PaymentType { get; set; }
