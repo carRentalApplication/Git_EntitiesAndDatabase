@@ -18,5 +18,7 @@ namespace CarRentalEntities
         public long MobileNumber { get; set; }
         public string Role { get; set; } = string.Empty;
         public DateTime MemberSince { get; set; }
+        public string ResetpasswordToken { get; set; } = string.Empty;
+        public DateTime ResetpasswordExpiry { get; set; }
     }
 }
